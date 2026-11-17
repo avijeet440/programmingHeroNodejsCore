@@ -1,0 +1,15 @@
+[
+  { "id": 1, "name": "Laptop", "price": 60000 },
+  { "id": 2, "name": "AI agentic pc", "price": 1500 },
+  { "id": 3, "name": "AI agent", "price": 1500 },
+  { "id": 1794842629982, "name": "Headphone", "price": 4000 },
+  { "id": 1794842631903, "name": "Headphone", "price": 4000 },
+  { "id": 1794842801409, "name": "Headphone", "price": 4000 },
+  { "id": 1794842864014, "name": "Headphone", "price": 4000 },
+  { "id": 1794843040635, "name": "Gaming PC", "price": 4000 },
+  { "id": 1794843076258, "name": "Headphone", "price": 4000 },
+  { "id": 1794843144165, "name": "Headphone", "price": 4000 },
+  { "id": 1794843155915, "name": "Headphone", "price": 4000 },
+  { "id": 1794843782004, "name": "Headphone", "price": 4000 },
+  { "id": 1794889961818, "name": "AI agentic pc", "price": 1500 }
+]
